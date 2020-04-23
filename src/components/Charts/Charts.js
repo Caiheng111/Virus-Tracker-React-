@@ -16,7 +16,6 @@ import styles from './Charts.module.css';
       setDailyData(initialDailyData);
     };
   // console.log(dailyData)
-
     fetchMyAPI();
   });
 
